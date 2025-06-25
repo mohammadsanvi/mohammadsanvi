@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/circuit-connect-lines-dots-network-technology_322958-5018.jpg?uid=R201254558&ga=GA1.1.1244749982.1746434983&semt=ais_items_boosted&w=740" alt="banner" />
+</p>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 I'm **Mohammad Sanvi**, a passionate **MERN Stack Developer** from Bangladesh. I love building real-world applications with clean UI, efficient backend logic, and meaningful user experience. I'm constantly learning and exploring new technologies to level up my development skills.
