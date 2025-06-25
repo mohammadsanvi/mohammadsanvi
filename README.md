@@ -43,7 +43,7 @@ Alongside building projects, I’m continuously improving in:
 
 ![Sanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadsanvi&theme=radical&show_icons=true&hide_border=true)
 
-![Sanvi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadsanvi&theme=radical&hide_border=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsanvi&layout=compact&theme=radical&hide_border=true)
 
