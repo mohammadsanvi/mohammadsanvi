@@ -41,11 +41,15 @@ Alongside building projects, I’m continuously improving in:
 
 ### 📊 GitHub Stats
 
-![Sanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadsanvi&theme=radical&show_icons=true&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadsanvi&show_icons=true&theme=tokyonight" />
+</p>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsanvi&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsanvi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
