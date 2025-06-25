@@ -1,14 +1,22 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/circuit-connect-lines-dots-network-technology_322958-5018.jpg?uid=R201254558&ga=GA1.1.1244749982.1746434983&semt=ais_items_boosted&w=740" alt="banner" />
+  <img src="https://img.freepik.com/premium-vector/circuit-connect-lines-dots-network-technology_322958-5018.jpg?uid=R201254558&ga=GA1.1.1244749982.1746434983&semt=ais_items_boosted&w=740" alt="banner" width="100%" />
 </p>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+  Welcome to My GitHub!
+</h1>
 
-I'm **Mohammad Sanvi**, a passionate **MERN Stack Developer** from Bangladesh. I love building real-world applications with clean UI, efficient backend logic, and meaningful user experience. I'm constantly learning and exploring new technologies to level up my development skills.
+<p align="center">
+  <strong>Hi, I'm Mohammad Sanvi</strong> – a driven and detail-oriented <strong>Full-Stack Web Developer</strong> from Bangladesh.
+  <br />
+  I focus on writing clean, maintainable code and love solving real-world problems through modern web technologies.
+</p>
 
 ---
 
-### 🛠️ Languages & Tools I Use
+### 🛠️ Tech Stack & Tools
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -18,48 +26,55 @@ I'm **Mohammad Sanvi**, a passionate **MERN Stack Developer** from Bangladesh. I
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 🚀 Currently Building & Exploring
 
-- 🌐 [**RoomsyNest**](https://roomsy-nest.web.app/) – A roommate finder platform with user listings, dynamic search filters, and secured dashboard access.
-- ✈️ [**WanderNest**](https://wandernest-63f5d.web.app/) – A tour package booking system featuring multi-step forms, real-time MongoDB integration, and role-based dashboards.
-- 🎉 [**EventVista**](https://event-vista-431a6.web.app/) – An event discovery platform where users can explore events, view details, and leave feedback.
-  
-Alongside building projects, I’m continuously improving in:
-- Crafting scalable frontend architectures with **React.js + Tailwind CSS**
-- Designing efficient backend APIs using **Node.js + Express + MongoDB**
-- Learning advanced practices in **JWT Auth, secure data flow**, and **deployment strategies**
+- 🌐 [**RoomsyNest**](https://roomsy-nest.web.app/) – Roommate finder with filtered listings and secure user dashboard.
+- ✈️ [**WanderNest**](https://wandernest-63f5d.web.app/) – Multi-step tour package management with MongoDB backend.
+- 🎉 [**EventVista**](https://event-vista-431a6.web.app/) – Event discovery and feedback platform.
 
+I'm also refining my skills in:
+- Scalable frontends using **React + Tailwind CSS**
+- Backend architecture with **Node.js, Express & MongoDB**
+- Secure auth, REST APIs, and modern deployment workflows
 
-### 📫 Contact Me
-- Email: **mohammadsanvi.dev@gmail.com**
-- Facebook: [Abrarul Jannat Safi](https://www.facebook.com/abraruljannatsafi)
-- LinkedIn: [Mohammad Sanvi](https://www.linkedin.com/in/mohammad-sanvi-2b7569371/)
+---
+
+### 📫 Reach Me Anytime
+
+- 📧 Email: **mohammadsanvi.dev@gmail.com**
+- 🌐 LinkedIn: [Mohammad Sanvi](https://www.linkedin.com/in/mohammad-sanvi-2b7569371/)
+- 📘 Facebook: [Abrarul Jannat Safi](https://www.facebook.com/abraruljannatsafi)
 
 ---
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadsanvi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadsanvi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsanvi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsanvi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sanvi-2b7569371/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/abraruljannatsafi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-sanvi-2b7569371/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/abraruljannatsafi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook"/>
+  </a>
+</p>
 
 ---
