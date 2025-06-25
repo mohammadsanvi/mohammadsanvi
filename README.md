@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner Image -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/circuit-connect-lines-dots-network-technology_322958-5018.jpg?w=740" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/JR4skYbS/Purple-Blue-and-White-Neon-Bold-Modern-Gradient-Geometric-Computer-Technology-Presentation.png" alt="Banner" width="100%" />
 </p>
 
 <!-- 👋 Introduction -->
