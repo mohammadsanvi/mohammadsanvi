@@ -20,12 +20,17 @@ I'm **Mohammad Sanvi**, a passionate **MERN Stack Developer** from Bangladesh. I
 
 ---
 
-### 🚀 Currently Working On
-- A **Job Portal Platform** with full CRUD and Firebase Auth
-- A **Tour Package Website** with multi-step forms and MongoDB backend
-- Improving my understanding of **JWT Authentication**, **REST APIs**, and **React Best Practices**
+### 🚀 Currently Building & Exploring
 
----
+- 🌐 [**RoomsyNest**](https://roomsy-nest.web.app/) – A roommate finder platform with user listings, dynamic search filters, and secured dashboard access.
+- ✈️ [**WanderNest**](https://wandernest-63f5d.web.app/) – A tour package booking system featuring multi-step forms, real-time MongoDB integration, and role-based dashboards.
+- 🎉 [**EventVista**](https://event-vista-431a6.web.app/) – An event discovery platform where users can explore events, view details, and leave feedback.
+  
+Alongside building projects, I’m continuously improving in:
+- Crafting scalable frontend architectures with **React.js + Tailwind CSS**
+- Designing efficient backend APIs using **Node.js + Express + MongoDB**
+- Learning advanced practices in **JWT Auth, secure data flow**, and **deployment strategies**
+
 
 ### 📫 Contact Me
 - Email: **mohammadsanvi.dev@gmail.com**
