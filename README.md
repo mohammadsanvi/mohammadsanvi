@@ -1,6 +1,7 @@
 <!-- 🖼️ Banner Image -->
 <p align="center">
   <img src="https://i.ibb.co/kss1zmtY/Chat-GPT-Image-Jun-26-2025-09-06-13-PM.png" />
+  </p>
 <!-- 👋 Introduction -->
 <h1 align="center">Hey there! 👋</h1>
 
