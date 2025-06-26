@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/JR4skYbS/Purple-Blue-and-White-Neon-Bold-Modern-Gradient-Geometric-Computer-Technology-Presentation.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/r2cP3Db7/generated-image-d5344375-ed6c-47c9-9e2c-5cb1e2a8430b.png" alt="Banner" width="100%" />
 </p>
 
 <!-- 👋 Introduction -->
