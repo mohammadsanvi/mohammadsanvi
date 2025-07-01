@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/j9YCryDy/github-banner.png" width="100%" alt="Banner"/>
+  <img src="https://t90181379501.p.clickup-attachments.com/t90181379501/8e1eef73-679e-44c6-91fe-54f4676dba0c/generated-image-c07d99c2-c07f-4d20-9157-f25813641ea0.png" width="100%" alt="Banner"/>
 </p>
 
 <!-- ✨ Intro -->
@@ -68,7 +68,13 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-sanvi-2b7569371/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.facebook.com/abraruljannatsafi"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" /></a>
-  <a href="mailto:mohammadsanvi.dev@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" /></a>
+  <a href="https://www.linkedin.com/in/mohammadsanvi0/" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.facebook.com/mohammadsanvi" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+  </a>
+  <a href="mailto:mohammadsanvi.dev@gmail.com" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
+  </a>
 </p>
