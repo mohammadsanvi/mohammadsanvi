@@ -68,13 +68,20 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammadsanvi0/" style="margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://mohammad-sanvi.web.app/" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/internetarchive/00C6FF" height="40" alt="Portfolio" />
   </a>
-  <a href="https://www.facebook.com/mohammadsanvi" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+  <a href="https://www.linkedin.com/in/mohammadsanvi/" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mohammadsanvi0" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
   </a>
   <a href="mailto:mohammadsanvi.dev@gmail.com" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <em>🌟 Visit my portfolio: <a href="https://mohammad-sanvi.web.app/">https://mohammad-sanvi.web.app/</a></em>
 </p>
